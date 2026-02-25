@@ -10,14 +10,6 @@ I like building things across the stack — from kernel threads to neural nets t
 - Going down rabbit holes I may never return from
 - Convincing myself *this* side project will be the one I finish
 
-#### Contribution snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SatvikBajpai/SatvikBajpai/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SatvikBajpai/SatvikBajpai/output/github-snake.svg" />
-  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/SatvikBajpai/SatvikBajpai/output/github-snake.svg" />
-</picture>
-
 #### Get in touch
 
 [![Email](https://img.shields.io/badge/email-satvikbajpai%40gmail.com-black?style=flat-square)](mailto:satvikbajpai@gmail.com)
